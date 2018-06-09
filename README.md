@@ -1,5 +1,7 @@
 ## Welcome to KPTest
 
+This is a dummy page created by KennyP on June 9, 2018. Wahahahahahaha 😂
+
 You can use the [editor on GitHub](https://github.com/XOKP/KPTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
